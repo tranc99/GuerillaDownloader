@@ -32,3 +32,6 @@ function downloadFiles(extension, containerID) {
   }
   
 }
+
+downloadFiles("html");
+
